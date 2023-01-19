@@ -1,5 +1,8 @@
-# Frontend Portal Web
-Realizado con Angular, consume apis de OpenWheater(tiempo), newsApi(noticias), Backend-Portal-Web(login-registro).
+# Descripcion
+
+Para su funcionamiento correr [backend-portal-web](https://github.com/JhojanLopez/backend-portal-web).
+
+Se utiliza Angular, consume apis de OpenWheater(tiempo), newsApi(noticias), Backend-Portal-Web(login-registro).
 Funcionalidades como login, logout, registro, ver noticias y tiempo actual (cali).
 
 ## Instalacion de modulos
